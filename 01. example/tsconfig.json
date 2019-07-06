@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": false // 是否生成压缩文
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
